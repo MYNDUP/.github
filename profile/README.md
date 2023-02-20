@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/company/myndup/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
   </a>
-  <a href="https://github.com/Myndyp">
+  <a href="https://github.com/myndup">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
