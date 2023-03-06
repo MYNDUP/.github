@@ -58,5 +58,5 @@
 
 
 <p align="center">
-  Copyright &copy; 2022 <a href="https://www.myndup.com" target="_blank">MYNDUP LIMITED</a>
+  Copyright &copy; 2023 <a href="https://www.myndup.com" target="_blank">MYNDUP LIMITED</a>
 </p>
